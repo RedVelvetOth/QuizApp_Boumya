@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792406860158",
+    "project_id": "quizapp-boumya",
+    "storage_bucket": "quizapp-boumya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792406860158:android:96c3fa520ad174d143132f",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_boumya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGKAEnyvQOTs4-RqtYAuOgcpI4ZSAF6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
